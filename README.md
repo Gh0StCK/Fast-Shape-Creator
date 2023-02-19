@@ -3,7 +3,7 @@ Tell me thanks
 
 # Fast-Shape-Creator
 
-The addon allows you to quickly create tubes from splines, planes, and other 2D format objects that you can create yourself from objects, and which can be converted to a spline
+It creates a 3D object from a 2D object. This can help if you want to quickly create a shape, for example, for a Boolean operation or just an object with a center point at the base.
 
 Create in the FastTools in the N-panel, a new item for interaction.
 
