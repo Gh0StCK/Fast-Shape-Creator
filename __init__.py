@@ -92,7 +92,7 @@ def register():
 
 def unregister():
     for cl in reversed(classes):
-        bpy.utils.register_class(cl)
+        bpy.utils.unregister_class(cl)
 
 if __name__ == "__main__":
     register()
