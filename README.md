@@ -5,6 +5,6 @@ Tell me thanks.
 
 It creates a 3D object from a 2D object. This can help if you want to quickly create a shape, for example, for a Boolean operation or just an object with a center point at the base.
 
-Create in the FastTools in the N-panel, a new item for interaction.
+Creates in the FastTools in the N-panel, a new item for interaction.
 
 Version Blender 3.4.1
